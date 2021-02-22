@@ -124,7 +124,7 @@ def getInfo():
     # name=input("Name:")
     print("Your Name \n\t\t\t\t\t\t",end="->")
     name=input("")
-    print("hello ",name)
+    print("Hello, ",name)
 
 def check_pattern(dis_list,inp):
     import re
